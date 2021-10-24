@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "967762528043",
+    "project_id": "groupe-bienfaisance",
+    "storage_bucket": "groupe-bienfaisance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967762528043:android:f763794da9c6c22357e76e",
+        "android_client_info": {
+          "package_name": "com.samia.bienfaisance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967762528043-4gt2jgtf3n0pgrrr6gu75fghhr7f6m8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhO-6RElAK55uqMRt5VEKQiFq7oNLSULs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967762528043-4gt2jgtf3n0pgrrr6gu75fghhr7f6m8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
